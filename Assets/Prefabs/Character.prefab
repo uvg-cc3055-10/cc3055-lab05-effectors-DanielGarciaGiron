@@ -136,7 +136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6359fb0400afab4ebcc2198e1f91424, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  feet: {fileID: 1806655619607636}
+  feet: {fileID: 1535624274718070, guid: f4599e3bc673fda48976a32c1a317718, type: 2}
   layerMask:
     serializedVersion: 2
     m_Bits: 512
